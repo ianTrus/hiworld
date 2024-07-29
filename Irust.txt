@@ -135,9 +135,9 @@ acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS81UCGCi94KO2-Ku9pe4wc3MHQp5CY4n5nQg&s", Eurosport 3 1080  
 acestream://a62c010c71bfb76b18188f108c3cc4541c34f45e
-#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 4" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Eurosport 4 1080  
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZQbUeD05dtylviEe0e7VsnsbcSRfvESWKgg&s", Eurosport 4 1080  
 acestream://76a482a4cb53fc28518187c6b814f136b3db3c95
-#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 5" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Eurosport 5 1080  
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEmRMMBwfU_JA4clUj5MRknkas6vzwpNh5Aw&s", Eurosport 5 1080  
 acestream://914ce366baec9b0fb3523dd7ba762a44b597fc40
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 6" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Eurosport 6 1080  
 acestream://1bc614c5aa2a94117c13c7f0be2b8ea31b535f38
