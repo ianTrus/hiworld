@@ -129,11 +129,11 @@ acestream://e454681a152a86da504e63694f17f90d0586867d
 acestream://858b3cf2842ebe394999275e5ebb0435f1af2ae4
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOLF2" ,M+ Golf 2 1080
 acestream://9a4f3ae6563668b7709dac509dedc709441b3fd9
-#EXTINF:-1 group-title="Otros deportes" tvg-id="ESPN.us" tvg-logo="https://logowik.com/content/uploads/images/t_espn5188.jpg" ,ESPN US
+#EXTINF:-1 group-title="Otros deportes" tvg-id="ESPN" tvg-logo="https://logowik.com/content/uploads/images/t_espn5188.jpg" ,ESPN 
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
-#EXTINF:-1 group-title="Otros deportes" tvg-id="ESPN2.us" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" ,ESPN 2 US
+#EXTINF:-1 group-title="Otros deportes" tvg-id="ESPN 2" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" ,ESPN 2 
 acestream://664eb5fe460b96941aed633959a845b185cd8394
-#EXTINF:-1 group-title="Otros deportes" tvg-id="FoxSports1.us" tvg-logo="https://logowik.com/content/uploads/images/fox-sports3529.jpg" ,FOX Sports 1 US
+#EXTINF:-1 group-title="Otros deportes" tvg-id="FOX SPORTS" tvg-logo="https://logowik.com/content/uploads/images/fox-sports3529.jpg" ,FOX Sports 
 acestream://c9c062941fbecb16ce29437f346ea7177d720898
-#EXTINF:-1 group-title="Otros deportes" tvg-id="FoxSports2.us" tvg-logo="https://logowik.com/content/uploads/images/fox-sports3529.jpg" ,FOX Sports 2 US
+#EXTINF:-1 group-title="Otros deportes" tvg-id="FOX SPORTS 2" tvg-logo="https://logowik.com/content/uploads/images/fox-sports3529.jpg" ,FOX Sports 2 
 acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
