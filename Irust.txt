@@ -95,6 +95,8 @@ acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
 acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 5" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 5 1080
 acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 6" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 6 1080
+acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 #EXTINF:-1 group-title="Baloncesto" tvg-id="NBA TV" tvg-logo="https://i.imgur.com/4QrPlos.png" ,NBA TV
 acestream://e72d03fb9694164317260f684470be9ab781ed95
 #EXTINF:-1 group-title="M+ 2a Division" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg" ,M+ 2a Division 1080
