@@ -81,7 +81,7 @@ acestream://ddb1d0ff24955582668c0c6e4d4fb3d58cc4b65e
 acestream://bf270b6486daf3a2aa54bc027fd7cb02401a447a
 #EXTINF:-1 group-title="Deportes" tvg-id="Movistar Plus+ HD" tvg-logo="https://telegra.ph/file/9a0d68a169f207c184eca.png" ,M Plus+ 1080
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 group-title="Deportes" tvg-id="Movistar Plus+ 2 HD" tvg-logo="https://telegra.ph/file/9a0d68a169f207c184eca.png" ,M Plus+ 2 1080
+#EXTINF:-1 group-title="Deportes" tvg-id="Movistar Plus+ 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%202.png" ,M Plus+ 2 1080
 acestream://0ab6bab2334d442b68671cc86c4243f2b0bf1290
 #EXTINF:-1 group-title="Deportes" tvg-id="M+ Vamos HD" tvg-logo="https://telegra.ph/file/119d11f705496fbac4439.png" ,#Vamos 1080
 acestream://b16127ba49c5065b877cb2d4073f2a4bb9a1ddbe
@@ -130,7 +130,7 @@ acestream://f93741dc38bac456018fe9906a4689c2c6405716
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" ,Eurosport 1 1080
 acestream://b16eeeb12d208029eff3dc9e73613fd8b052737
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 2" tvg-logo="https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg" ,Eurosport 2 1080
-acestream://61f036ea26c353a74ea1fb32d7a322742817e4a0
+acestream://dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
 
 #EXTINF:-1 group-title="Otros deportes" tvg-id="UFC Fight Pass" tvg-logo="https://i.scdn.co/image/ab67656300005f1f83f1f61b89ebcd8585219b1a", UFC Fight Pass
 acestream://e3ad553098e0c1e70cba1ea2a906dc27aa3452a2
