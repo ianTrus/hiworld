@@ -28,6 +28,8 @@ acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
 acestream://b8370220a0338f9eb4728467111a2bce1033b80b
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" ,M+ LaLiga 1080 
 acestream://f5fcacb60627d6319b89942391e441d179dbb9d9
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" ,M+ LaLiga 1080 
+acestream://0908f5dd264ded10b638636cb7479409cfee0813
 
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://telegra.ph/file/954f096c5f1cb382e50f7.jpg" ,M+ LaLiga 2 1080
 acestream://83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
@@ -84,15 +86,11 @@ acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 acestream://e253307f495a6beeda976d2363d72501f2dc1fe3
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://i.imgur.com/alzVFEm.png" ,DAZN 1 1080
 acestream://e6121426f7d8007ae9de8e782f05d91e9b27993d
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://i.imgur.com/alzVFEm.png" ,DAZN 1 BAR
-acestream://0908f5dd264ded10b638636cb7479409cfee0813
 
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://i.imgur.com/m2YgWg7.png" ,DAZN 2 1080
 acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://i.imgur.com/m2YgWg7.png" ,DAZN 2 1080
 acestream://b056dfc53c18de02caeff4435ddb6b36bfb7b031
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://i.imgur.com/m2YgWg7.png" ,DAZN 2 BAR 
-acestream://17dc260a6b6c176183807e659817b647ddca465b
 
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 3 HD" tvg-logo="https://i.imgur.com/shO9BrB.png" ,DAZN 3 1080
 acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9
@@ -107,9 +105,9 @@ acestream://ddb1d0ff24955582668c0c6e4d4fb3d58cc4b65e
 
 
 #EXTINF:-1 group-title="Deportes" tvg-id="Movistar Plus+ HD" tvg-logo="https://telegra.ph/file/9a0d68a169f207c184eca.png" ,M Plus+ 1080
-acestream://682579275d24fa95964f99f3778bdd22c211c6b9
-#EXTINF:-1 group-title="Deportes" tvg-id="Movistar Plus+ HD" tvg-logo="https://telegra.ph/file/9a0d68a169f207c184eca.png" ,M Plus+ 1080
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 group-title="Deportes" tvg-id="Movistar Plus+ HD" tvg-logo="https://telegra.ph/file/9a0d68a169f207c184eca.png" ,M Plus+ 1080
+acestream://682579275d24fa95964f99f3778bdd22c211c6b9
 #EXTINF:-1 group-title="Deportes" tvg-id="Movistar Plus+ 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%202.png" ,M Plus+ 2 1080
 acestream://70c25bf1843b81356d62ebffbba267be60066659
 
