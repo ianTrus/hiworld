@@ -147,12 +147,12 @@ acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://i.imgur.com/alzVFEm.png" ,DAZN 1 720
 acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
 
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://i.imgur.com/alzVFEm.png" ,DAZN 1 A
-acestream://6713d3a14ffec0e0db5cf118b857f0db878fbaf5
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://i.imgur.com/alzVFEm.png" ,DAZN 1 NE
-acestream://ef1e0c8799b331efe144a91317e35b064c54ec0c
+acestream://e6a00cb2912609dceeeee88d3f66a2de9718b421
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://i.imgur.com/alzVFEm.png" ,DAZN 1 NE
-acestream://b8b8c3cef92fca5061b9e75da3fbbfa8e94425ed
+acestream://ec10963a4408f96d2089a29af8b7a8ac4b23dd3c
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://i.imgur.com/alzVFEm.png" ,DAZN 1 NE
+acestream://a7e083d922be14a0496d65aad2ff8ea9c8011bd0
 
 
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://i.imgur.com/m2YgWg7.png" ,DAZN 2 
