@@ -105,8 +105,7 @@ acestream://bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
 
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://telegra.ph/file/388cb7e9c2c35b3e2b2a3.jpg" ,M+ Champions 2 
 acestream://abdf9058786a48623d0de51a3adb414ae10b6e72
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://telegra.ph/file/388cb7e9c2c35b3e2b2a3.jpg" ,M+ Champions 2 
-#acestream://c070cdb701fc46bb79d17568d99fc64620443d63 -> no tira
+
 
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://telegra.ph/file/388cb7e9c2c35b3e2b2a3.jpg" ,M+ Champions 2 NE
 acestream://deb8972491e3817ba2335662d7855d2c2c05a900
