@@ -143,7 +143,7 @@ acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
 
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://i.imgur.com/m2YgWg7.png" ,DAZN 2 --> NEW ERA
 acestream://ddb69a119ab5faf7eeec3cef77e3d591a8242816
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://i.imgur.com/m2YgWg7.png" --> NEW LOOP
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://i.imgur.com/m2YgWg7.png", DAZN 2 --> NEW LOOP
 acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
 
 
