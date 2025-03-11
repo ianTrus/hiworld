@@ -32,7 +32,7 @@ acestream://94d34491106e00394835c8cb68aa94481339b53f
 
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", M+ Bar FHD --> NEW ERA II
 #acestream://580fa1e7623d514a94e8585f90c42eda09d5e4f1
-#EXTINF:-1 tvg-logo="https://wiki2023.mundoplus.tv/lib/exe/fetch.php?w=144&h=108&tok=c3e080&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fdaznbar01.png" tvg-id="DAZN 1 BAR" group-title="DAZN", DAZN 1 BAR FHD --> NEW ERA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJP2lrrTrQhekBcYVp5iZ3k5-LaVevot7g3A&s" tvg-id="DAZN 1 BAR" group-title="DAZN", DAZN 1 BAR FHD --> NEW ERA
 acestream://ec10963a4408f96d2089a29af8b7a8ac4b23dd3c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" tvg-id="DAZN 2 BAR" group-title="DAZN", DAZN 2 BAR FHD --> NEW ERA
 #acestream://f86e821848931eaa55bcb779e74f62d6a59f41c0
