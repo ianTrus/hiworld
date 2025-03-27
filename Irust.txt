@@ -1,28 +1,26 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz"
 #EXTVLCOPT:network-caching=2000
 
-#EXTINF:-1 group-title="F1" tvg-id="UPDATE" tvg-logo="https://img.freepik.com/free-photo/latest-news-subscribe-update_53876-120299.jpg", ACTUALIZADO 11/3 15:00
+#EXTINF:-1 group-title="F1" tvg-id="UPDATE" tvg-logo="https://img.freepik.com/free-photo/latest-news-subscribe-update_53876-120299.jpg", ACTUALIZADO 27/3 12:00
 acestream://d6281d4e6310269b416180442a470d
 
 #EXTINF:-1 group-title="F1" tvg-id="DAZN F1 HD" tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg", DAZN F1 
-#acestream://d6281d4e6310269b416180442a470d23a4a99dc9
+acestream://d6281d4e6310269b416180442a470d23a4a99dc9
 #EXTINF:-1 group-title="F1" tvg-id="DAZN F1 HD" tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg", DAZN F1 
-#acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6
+acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6
 #EXTINF:-1 group-title="F1" tvg-id="DAZN F1 HD" tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg", DAZN F1 
 #acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa
 #EXTINF:-1 group-title="F1" tvg-id="DAZN F1 HD" tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg", DAZN F1 720
 #acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg" tvg-id="DAZN F1 HD" group-title="F1", DAZN F1 --> NEW ERA
+acestream://9f04b67904bf5ec6782ab34e8105bca264c10b62
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg" tvg-id="DAZN F1 HD" group-title="F1", DAZN F1 --> NEW ERA
 acestream://4f1d222c600e66ef4990b3d7ea13bfa53f7bfea1
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg" tvg-id="DAZN F1 HD" group-title="F1", DAZN F1 --> NEW ERA
 acestream://5d8613b5fde87f366bb5e41ac8011007a4c6bd3c
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg" tvg-id="DAZN F1 HD" group-title="F1", DAZN F1 --> NEW ERA
 acestream://751aa1f2429dfb9484b67a3ede00d859c6212994
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg" tvg-id="DAZN F1 HD" group-title="F1", DAZN F1 --> NEW ERA II
-#acestream://c367738691c63896679e523d4c1c7933729acc7b
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg" tvg-id="DAZN F1 HD" group-title="F1", DAZN F1 --> NEW ERA III
-#acestream://fcb845950f6dab7ac3f85ea05762faf5caa6a811
 
 
 #EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga TV BAR HD" tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png", LaLiga TV BAR 
@@ -75,7 +73,7 @@ acestream://97ba38d47680954be40e48bd8f43e17222fefecb
 acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9
 
 #EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://telegra.ph/file/94036fc98a0d900cc62a5.jpg" ,DAZN LaLiga 2 --> NEW ERA
-acestream://fb51ef5294e99767811a3fa95a1933fb864e9ff3
+#acestream://fb51ef5294e99767811a3fa95a1933fb864e9ff3
 
 
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg" ,Champions  
@@ -189,8 +187,6 @@ acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
 
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Vamos HD" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" ,#Vamos --> NEW ERA
 acestream://47403b07582b05c2a1eadaf6d1fb6454eda03a77
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Vamos HD" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" ,#Vamos --> NEW ERA
-acestream://a1660d711184fa701bf1c88395e3b2d43ddca83f
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Vamos HD" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" ,#Vamos --> NEW ERA II
 acestream://c6b52ffb3b84836d334569204797d88bf15d48fa
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Vamos HD" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" ,#Vamos --> NEW ERA IV
@@ -268,14 +264,13 @@ acestream://ca4860d9998d63029dcf08c6f5dfc2102c01be4e
 
 
 #EXTINF:-1 group-title="Otros deportes" tvg-id="UFC Fight Pass" tvg-logo="https://i.ibb.co/CsMjBRkR/ufc.png", UFC Fight Pass
-acestream://f74dcf44f57fc71cb4b0719b3342e569eba50c51
-#EXTINF:-1 group-title="Otros deportes" tvg-id="UFC Fight Pass" tvg-logo="https://i.ibb.co/CsMjBRkR/ufc.png", UFC Fight Pass
-acestream://405f4975c759816fbc6606eeb990666f1853dfe2
+acestream://916888d956caf960cc8456eb46a12775a858124c
+
 
 #EXTINF:-1 group-title="Otros deportes" tvg-id="ESPN" tvg-logo="https://logowik.com/content/uploads/images/t_espn5188.jpg" ,ESPN 
-acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
+#acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1 group-title="Otros deportes" tvg-id="ESPN 2" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" ,ESPN 2 
-acestream://664eb5fe460b96941aed633959a845b185cd8394
+#acestream://664eb5fe460b96941aed633959a845b185cd8394
 
 #EXTINF:-1 group-title="Otros deportes" tvg-id="FOX SPORTS" tvg-logo="https://logowik.com/content/uploads/images/fox-sports3529.jpg" ,FOX Sports 
 acestream://c9c062941fbecb16ce29437f346ea7177d720898
