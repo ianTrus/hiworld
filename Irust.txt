@@ -83,7 +83,7 @@ acestream://0a26e20f39845e928411e09a124374fccb6e1478
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg" ,Champions --> NEW ERA 
 acestream://c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg" ,Champions --> NEW ERA 
-#acestream://778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
+acestream://152169ce99e1fd27f2249c18384a121079cdef29
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg" ,Champions --> NEW ERA 
 acestream://afbf2a479c5a5072698139f0f556ef3e77a99bd0
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg" ,Champions --> NEW ERA 
