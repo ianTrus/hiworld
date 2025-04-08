@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz"
 #EXTVLCOPT:network-caching=2000
 
-#EXTINF:-1 group-title="F1" tvg-id="UPDATE" tvg-logo="https://img.freepik.com/free-photo/latest-news-subscribe-update_53876-120299.jpg", ACTUALIZADO 8/4 16:35
+#EXTINF:-1 group-title="F1" tvg-id="UPDATE" tvg-logo="https://img.freepik.com/free-photo/latest-news-subscribe-update_53876-120299.jpg", ACTUALIZADO 8/4 16:45
 acestream://d6281d4e6310269b416180442a470d
 
 #EXTINF:-1 group-title="F1" tvg-id="DAZN F1 HD" tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg", DAZN F1 
@@ -76,14 +76,14 @@ acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg" ,Champions  
 acestream://0a26e20f39845e928411e09a124374fccb6e1478
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg" ,Champions  
-acestream://775abd8697715c48a357906d40734ccd2a10513c
+#acestream://775abd8697715c48a357906d40734ccd2a10513c
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg" ,Champions
-acestream://8edb264520569b2280c5e86b2dc734e120032903
+#acestream://8edb264520569b2280c5e86b2dc734e120032903
 
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg" ,Champions --> NEW ERA 
 acestream://c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg" ,Champions --> NEW ERA 
-acestream://778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
+#acestream://778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg" ,Champions --> NEW ERA 
 acestream://afbf2a479c5a5072698139f0f556ef3e77a99bd0
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg" ,Champions --> NEW ERA 
@@ -96,9 +96,9 @@ acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 acestream://abdf9058786a48623d0de51a3adb414ae10b6e72
 
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://telegra.ph/file/388cb7e9c2c35b3e2b2a3.jpg" ,Champions 2 --> NEW ERA
-acestream://deb8972491e3817ba2335662d7855d2c2c05a900
+acestream://c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://telegra.ph/file/388cb7e9c2c35b3e2b2a3.jpg" ,Champions 2 --> NEW ERA
-acestream://bd6fa847d9eb4e6fa44b68da1304bf8684ef8acb
+acestream://4fc6d0331830ad8743abab2fe2473b63bdfbc49f
 
 
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://telegra.ph/file/e4c5995e20c06f7fd036f.jpg" ,Champions 3 
@@ -107,7 +107,7 @@ acestream://3618edda333dad5374ac2c801f5f14483934b97d
 acestream://0b348cc1ae499e810729661878764a0fab88ab69
 
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://telegra.ph/file/e4c5995e20c06f7fd036f.jpg" ,Champions 3 --> NEW ERA
-acestream://8e65f92af1de567f0af83562c5a14a3db6dc8ac8
+acestream://17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
 
 
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 4" tvg-logo="https://telegra.ph/file/ed5ff4d4af1b41089bf63.jpg" ,Champions 4 
