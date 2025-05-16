@@ -16,7 +16,7 @@ acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg" tvg-id="DAZN F1 HD" group-title="F1", DAZN F1 --> NEW ERA
 acestream://7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg" tvg-id="DAZN F1 HD" group-title="F1", DAZN F1 --> NEW ERA
-acestream://4b1066552d40ac452ab408c97fc3215699a52c4f
+#acestream://4b1066552d40ac452ab408c97fc3215699a52c4f
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg" tvg-id="DAZN F1 HD" group-title="F1", DAZN F1 --> NEW ERA II
 acestream://c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg" tvg-id="DAZN F1 HD" group-title="F1", DAZN F1 --> NEW ERA
