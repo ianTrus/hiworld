@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz"
 #EXTVLCOPT:network-caching=2000
 
-#EXTINF:-1 group-title="F1" tvg-id="UPDATE" tvg-logo="https://img.freepik.com/free-photo/latest-news-subscribe-update_53876-120299.jpg", ACTUALIZADO 16/5 13:45
+#EXTINF:-1 group-title="F1" tvg-id="UPDATE" tvg-logo="https://img.freepik.com/free-photo/latest-news-subscribe-update_53876-120299.jpg", ACTUALIZADO 06/6 16:45
 acestream://d6281d4e6310269b416180442a470d
 
 #EXTINF:-1 group-title="F1" tvg-id="DAZN F1 HD" tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg", DAZN F1 
@@ -243,8 +243,8 @@ acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
 
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" ,Eurosport 1 --> NEW ERA
 acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909
-#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" ,Eurosport 1 --> NEW ERA II
-#acestream://0358f9db953e5fde91c34d7ed4bc368939b49853
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" ,Eurosport 1 --> NEW ERA 
+acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" ,Eurosport 1 --> NEW ERA IV
 #acestream://9d40122f58b904afc78b971aa287a31c1003cd7d
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" ,Eurosport 1 --> NEW LOOP
