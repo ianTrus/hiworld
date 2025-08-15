@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz"
 #EXTVLCOPT:network-caching=2000
 
-#EXTINF:-1 group-title="F1" tvg-id="UPDATE" tvg-logo="https://img.freepik.com/free-photo/latest-news-subscribe-update_53876-120299.jpg", ACTUALIZADO 015/8 21:00
+#EXTINF:-1 group-title="F1" tvg-id="UPDATE" tvg-logo="https://img.freepik.com/free-photo/latest-news-subscribe-update_53876-120299.jpg", ACTUALIZADO 15/8 21:05
 acestream://d6281d4e6310269b416180442a470d
 
 #EXTINF:-1 group-title="F1" tvg-id="DAZN F1 HD" tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg", DAZN F1 
@@ -125,12 +125,12 @@ acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7
 
 
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://i.imgur.com/alzVFEm.png" ,DAZN 1 
-acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
+acestream://eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/alzVFEm.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 --> NEW ERA
-acestream://6538b79ce0da657d8455d1da6a5f342398899a0e
+acestream://ee4dc45720d3ec283f61189fbfc120c91d5141bf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/alzVFEm.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 --> NEW ERA
-acestream://50a8a13c474848d1efbd5586efdb5b6cdd173fa9
+#acestream://50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-logo="https://i.imgur.com/alzVFEm.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 --> NEW ERA
 #acestream://4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-logo="https://i.imgur.com/alzVFEm.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 --> NEW ERA 
