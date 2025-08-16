@@ -227,13 +227,16 @@ acestream://e72d03fb9694164317260f684470be9ab781ed95
 
 
 #EXTINF:-1 group-title="M+ 2a Division" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg" ,M+ 2a Division 
-acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
+acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
 #EXTINF:-1 group-title="M+ 2a Division" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg" ,M+ 2a Division 720
-acestream://121f719ebb94193c6086ef92865cf9b197750980
+acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd
 
+
+#EXTINF:-1 group-title="M+ 2a Division" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg" ,M+ 2a Division --> NEW ERA
+acestream://f15f997f457e49ad9697e65cf2d78db26ee875b9
 
 #EXTINF:-1 group-title="M+ 2a Division" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://telegra.ph/file/7431c20a1684dd79bca18.jpg" ,M+ 2a Division 2 
-acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
+acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8
 #EXTINF:-1 group-title="M+ 2a Division" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://telegra.ph/file/7431c20a1684dd79bca18.jpg" ,M+ 2a Division 2 720
 acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
 
