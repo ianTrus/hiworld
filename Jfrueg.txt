@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz"
 #EXTVLCOPT:network-caching=2000
 
-#EXTINF:-1 group-title="F1" tvg-id="UPDATE" tvg-logo="https://img.freepik.com/free-photo/latest-news-subscribe-update_53876-120299.jpg", ACTUALIZADO 27/9 10:00
+#EXTINF:-1 group-title="F1" tvg-id="UPDATE" tvg-logo="https://img.freepik.com/free-photo/latest-news-subscribe-update_53876-120299.jpg", ACTUALIZADO 30/9 21:00
 acestream://d6281d4e6310269b416180442a470d
 
 #EXTINF:-1 group-title="F1" tvg-id="DAZN F1 HD" tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg", DAZN F1 
@@ -11,6 +11,17 @@ acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg" tvg-id="DAZN F1 HD" group-title="F1", DAZN F1 --> NE
+acestream://c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg" tvg-id="DAZN F1 HD" group-title="F1", DAZN F1 --> NE
+acestream://6422e8bc34282871634c81947be093c04ad1bb29
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg" tvg-id="DAZN F1 HD" group-title="F1", DAZN F1 --> NE
+acestream://c9c18ae7a9dafba1caae5beb22060f9c92bba553
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg" tvg-id="DAZN F1 HD" group-title="F1", DAZN F1 --> NE
+acestream://d5cf2dfa4fb4165ce58bf9db815088c28fec7711
+
+
+#EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga TV BAR HD" tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png", LaLiga TV BAR 
+#acestream://94d34491106e00394835c8cb68aa94481339b53f
 acestream://c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg" tvg-id="DAZN F1 HD" group-title="F1", DAZN F1 --> NE
 acestream://6422e8bc34282871634c81947be093c04ad1bb29
