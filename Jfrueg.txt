@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz"
 #EXTVLCOPT:network-caching=2000
 
-#EXTINF:-1 group-title="F1" tvg-id="UPDATE" tvg-logo="https://img.freepik.com/free-photo/latest-news-subscribe-update_53876-120299.jpg", ACTUALIZADO 20/01 18:30
+#EXTINF:-1 group-title="F1" tvg-id="UPDATE" tvg-logo="https://img.freepik.com/free-photo/latest-news-subscribe-update_53876-120299.jpg", ACTUALIZADO 20/01 21:30
 acestream://d6281d4e6310269b416180442a470d
 
 #EXTINF:-1 group-title="F1" tvg-id="DAZN F1 HD" tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg", DAZN F1 
@@ -228,7 +228,7 @@ acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
 
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-2-365.png" ,M+ Deportes2 --> NE
-acestream://73d38feaa770d788848ec098470e32670fe55a61
+acestream://3afe1af18f8ff78e9946856911b00c67477052b5
 
 
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-3-2502.png" ,M+ Deportes 3 
