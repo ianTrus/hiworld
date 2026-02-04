@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz"
 #EXTVLCOPT:network-caching=2000
 
-#EXTINF:-1 group-title="F1" tvg-id="UPDATE" tvg-logo="https://img.freepik.com/free-photo/latest-news-subscribe-update_53876-120299.jpg", ACTUALIZADO 28/01 15:00
+#EXTINF:-1 group-title="F1" tvg-id="UPDATE" tvg-logo="https://img.freepik.com/free-photo/latest-news-subscribe-update_53876-120299.jpg", ACTUALIZADO 04/02 22:00
 acestream://d6281d4e6310269b416180442a470d
 
 #EXTINF:-1 group-title="F1" tvg-id="DAZN F1 HD" tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg", DAZN F1 
@@ -15,8 +15,6 @@ acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 acestream://0febfb5cac3384f487d55c559bbfc877db2d0357
 #EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga por Movistar Plus+" tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" ,M+ LaLiga  
 acestream://3ace1463a7cad979c3a4002b245487e9982e9f1a
-#EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga por Movistar Plus+" tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" ,M+ LaLiga  
-acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 
 
 #EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga 2 por Movistar Plus+" tvg-logo="https://telegra.ph/file/954f096c5f1cb382e50f7.jpg" ,M+ LaLiga 2 
