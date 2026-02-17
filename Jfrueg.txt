@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz"
 #EXTVLCOPT:network-caching=2000
 
-#EXTINF:-1 group-title="F1" tvg-id="UPDATE" tvg-logo="https://img.freepik.com/free-photo/latest-news-subscribe-update_53876-120299.jpg", ACTUALIZADO 11/02 22:00
+#EXTINF:-1 group-title="F1" tvg-id="UPDATE" tvg-logo="https://img.freepik.com/free-photo/latest-news-subscribe-update_53876-120299.jpg", ACTUALIZADO 17/02 10:00
 acestream://d6281d4e6310269b416180442a470d
 
 #EXTINF:-1 group-title="F1" tvg-id="DAZN F1 HD" tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg", DAZN F1 
@@ -69,7 +69,7 @@ acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
 
 
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 4" tvg-logo="https://telegra.ph/file/ed5ff4d4af1b41089bf63.jpg" ,Champions 4
-#acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
+acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
 
 
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 5" tvg-logo="https://telegra.ph/file/f70ec8ceea100f7cc16d3.jpg" ,Champions 5 
