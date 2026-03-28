@@ -1,20 +1,20 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz"
 #EXTVLCOPT:network-caching=2000
 
-#EXTINF:-1 group-title="F1" tvg-id="UPDATE" tvg-logo="https://img.freepik.com/free-photo/latest-news-subscribe-update_53876-120299.jpg", ACTUALIZADO 22/03 16:30
+#EXTINF:-1 group-title="F1" tvg-id="UPDATE" tvg-logo="https://img.freepik.com/free-photo/latest-news-subscribe-update_53876-120299.jpg", ACTUALIZADO 28/03 08:00
 acestream://d6281d4e6310269b416180442a470d
 
 #EXTINF:-1 group-title="F1" tvg-id="DAZN F1 HD" tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg", DAZN F1 
 acestream://6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 group-title="F1" tvg-id="DAZN F1 HD" tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg", DAZN F1 
-acestream://d65257bb934b73647374224fd62d836815804be2
+acestream://ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 group-title="F1" tvg-id="DAZN F1 HD" tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg", DAZN F1 
-acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55
+acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 group-title="F1" tvg-id="DAZN F1 HD" tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg", DAZN F1 
 acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 
 #EXTINF:-1 group-title="MOTOGP" tvg-id="DAZN MOTOGP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE6okPA75sV_hMr-Pc5o21P0Xrv577gk9E2MWN_g4ASw&s=10", DAZN MotoGp
-acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
+acestream://20d4b3586bb822c3618cf8fb665a304869c5e1a5
 #EXTINF:-1 group-title="MOTOGP" tvg-id="DAZN MOTOGP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE6okPA75sV_hMr-Pc5o21P0Xrv577gk9E2MWN_g4ASw&s=10", DAZN MotoGp
 acestream://342ca6975a4884d81f9fec5c4085a47060bd2028
 #EXTINF:-1 group-title="MOTOGP" tvg-id="DAZN MOTOGP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE6okPA75sV_hMr-Pc5o21P0Xrv577gk9E2MWN_g4ASw&s=10", DAZN MotoGp
