@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz"
 #EXTVLCOPT:network-caching=2000
 
-#EXTINF:-1 group-title="F1" tvg-id="UPDATE" tvg-logo="https://img.freepik.com/free-photo/latest-news-subscribe-update_53876-120299.jpg", ACTUALIZADO 10/05 16:00
+#EXTINF:-1 group-title="F1" tvg-id="UPDATE" tvg-logo="https://img.freepik.com/free-photo/latest-news-subscribe-update_53876-120299.jpg", ACTUALIZADO 10/05 17:00
 acestream://d6281d4e6310269b416180442a470d
 
 #EXTINF:-1 group-title="F1" tvg-id="DAZN F1 HD" tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg", DAZN F1 
@@ -210,8 +210,8 @@ acestream://d01d255aaaf2fb91c0a8c98a826b4bd4769d81c1
 
 
 #EXTINF:-1 group-title="Otros deportes" tvg-id="ESPN" tvg-logo="https://logowik.com/content/uploads/images/t_espn5188.jpg" ,ESPN 
-#acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
+acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 
 
-#EXTINF:-1 group-title="Otros deportes" tvg-id="ESPN 2" tvg-logo="https://images.seeklogo.com/logo-png/26/1/espn2-logo-png_seeklogo-261969.png" ,ESPN 2
+#EXTINF:-1 group-title="Otros deportes" tvg-id="ESPN 2" tvg-logo="https://p1.hiclipart.com/preview/52/176/876/tv-channel-icons-pack-espn2-color-png-icon.jpg" ,ESPN 2
 acestream://664eb5fe460b96941aed633959a845b185cd8394
