@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz"
 #EXTVLCOPT:network-caching=2000
 
-#EXTINF:-1 group-title="F1" tvg-id="UPDATE" tvg-logo="https://img.freepik.com/free-photo/latest-news-subscribe-update_53876-120299.jpg", ACTUALIZADO 05/05 17:00
+#EXTINF:-1 group-title="F1" tvg-id="UPDATE" tvg-logo="https://img.freepik.com/free-photo/latest-news-subscribe-update_53876-120299.jpg", ACTUALIZADO 10/05 16:00
 acestream://d6281d4e6310269b416180442a470d
 
 #EXTINF:-1 group-title="F1" tvg-id="DAZN F1 HD" tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg", DAZN F1 
@@ -14,7 +14,7 @@ acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 
 #EXTINF:-1 group-title="MOTOGP" tvg-id="DAZN MOTOGP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE6okPA75sV_hMr-Pc5o21P0Xrv577gk9E2MWN_g4ASw&s=10", DAZN MotoGp
-acestream://20d4b3586bb822c3618cf8fb665a304869c5e1a5
+acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
 #EXTINF:-1 group-title="MOTOGP" tvg-id="DAZN MOTOGP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE6okPA75sV_hMr-Pc5o21P0Xrv577gk9E2MWN_g4ASw&s=10", DAZN MotoGp
 acestream://342ca6975a4884d81f9fec5c4085a47060bd2028
 #EXTINF:-1 group-title="MOTOGP" tvg-id="DAZN MOTOGP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE6okPA75sV_hMr-Pc5o21P0Xrv577gk9E2MWN_g4ASw&s=10", DAZN MotoGp
@@ -136,11 +136,11 @@ acestream://02ec118ee4586d96df9115ffc486be9a499d00d9
 
 
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="Movistar Plus+ HD" tvg-logo="https://telegra.ph/file/9a0d68a169f207c184eca.png" ,M Plus+ 
-acestream://476b6f6583517bd75c15c4663bf45fab7c8da9cf
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="Movistar Plus+ HD" tvg-logo="https://telegra.ph/file/9a0d68a169f207c184eca.png" ,M Plus+
-acestream://0e5d8c9724fa9163f49096b70484e315251eb785
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="Movistar Plus+ HD" tvg-logo="https://telegra.ph/file/9a0d68a169f207c184eca.png" ,M Plus+
 acestream://b6ffbbc72a5b6b579faf79ebac229af7a25b933b
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="Movistar Plus+ HD" tvg-logo="https://telegra.ph/file/9a0d68a169f207c184eca.png" ,M Plus+
+acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="Movistar Plus+ HD" tvg-logo="https://telegra.ph/file/9a0d68a169f207c184eca.png" ,M Plus+
+acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 
 
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Vamos HD" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" ,#Vamos 
@@ -178,7 +178,7 @@ acestream://2fd410c5d89e7a627cd3785685b7915b8e4bd534
 
 
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 4 
-#acestream://b40e1de2dcbd7c665f54877b14c830ed67b32a96
+#acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 
 
 #EXTINF:-1 group-title="Baloncesto" tvg-id="NBA TV" tvg-logo="https://i.imgur.com/4QrPlos.png" ,NBA TV
@@ -210,4 +210,8 @@ acestream://d01d255aaaf2fb91c0a8c98a826b4bd4769d81c1
 
 
 #EXTINF:-1 group-title="Otros deportes" tvg-id="ESPN" tvg-logo="https://logowik.com/content/uploads/images/t_espn5188.jpg" ,ESPN 
-#acestream://ab9bf0a75f1135137e65c0bc7639cb7f8ae28af8
+#acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
+
+
+#EXTINF:-1 group-title="Otros deportes" tvg-id="ESPN 2" tvg-logo="https://images.seeklogo.com/logo-png/26/1/espn2-logo-png_seeklogo-261969.png" ,ESPN 2
+acestream://664eb5fe460b96941aed633959a845b185cd8394
