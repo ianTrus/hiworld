@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz"
 #EXTVLCOPT:network-caching=2000
 
-#EXTINF:-1 group-title="F1" tvg-id="UPDATE" tvg-logo="https://img.freepik.com/free-photo/latest-news-subscribe-update_53876-120299.jpg", ACTUALIZADO 16/09 21:35
+#EXTINF:-1 group-title="F1" tvg-id="UPDATE" tvg-logo="https://img.freepik.com/free-photo/latest-news-subscribe-update_53876-120299.jpg", ACTUALIZADO 18/09 21:15
 acestream://d6281d4e6310269b416180442a470d
 
 #EXTINF:-1 group-title="F1" tvg-id="DAZN F1 HD" tvg-logo="https://pbs.twimg.com/profile_images/1545704109545848834/siqC9l3g_400x400.jpg", DAZN F1 
@@ -62,11 +62,11 @@ acestream://67966d205968de9cf95dcffe3b2ff6888b106634
 
 
 #EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://telegra.ph/file/083da39b90492923b30d4.jpg" ,DAZN LaLiga  
-acestream://9c588ac92554746c489bc553773d959f6d2dfd8e
-#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://telegra.ph/file/083da39b90492923b30d4.jpg" ,DAZN LaLiga  
-acestream://7f9857c45764ef2c7cdfb619b89db3056a57a51f
-#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://telegra.ph/file/083da39b90492923b30d4.jpg" ,DAZN LaLiga  
 acestream://cc108ae39f92c48f6c946763047bd1c9b7b7d889
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://telegra.ph/file/083da39b90492923b30d4.jpg" ,DAZN LaLiga  
+acestream://9c75f1d190c518cfe0f236415b8dccc1f676ef3b
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://telegra.ph/file/083da39b90492923b30d4.jpg" ,DAZN LaLiga  
+acestream://9c588ac92554746c489bc553773d959f6d2dfd8e
 
 
 #EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://telegra.ph/file/94036fc98a0d900cc62a5.jpg" ,DAZN LaLiga 2  
