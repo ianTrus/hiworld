@@ -35,13 +35,14 @@ acestream://21613b7686a0f8db244638039aa019ccac877005
 acestream://0d7002051dccb87105798f17d40baf2cc201a1a0
 
 #EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://telegra.ph/file/083da39b90492923b30d4.jpg" ,DAZN LaLiga  
-acestream://aac92415626c18a3adbdd0ba1ac77ad076741fcf
+acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 #EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://telegra.ph/file/083da39b90492923b30d4.jpg" ,DAZN LaLiga  
 acestream://819b5627494a7830591ed7b995268315edcc7d0a
 #EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://telegra.ph/file/083da39b90492923b30d4.jpg" ,DAZN LaLiga  
-acestream://7f11f3366b520f71adedddf6ff1ad70362cc6a65
+acestream://f43ef903dc750610978b47df47a0cb389413fe61
 #EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://telegra.ph/file/083da39b90492923b30d4.jpg" ,DAZN LaLiga  
-#acestream://7d898e9c227d706e5479b9b523ad615847825d14
+acestream://3097d7e7ff0fe414711ee067a841168b6f5671cb
+
 
 #EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://telegra.ph/file/94036fc98a0d900cc62a5.jpg" ,DAZN LaLiga 2  
 acestream://4ef8d5f781b709d479cfc3961de9c92f0f0dcb0c
